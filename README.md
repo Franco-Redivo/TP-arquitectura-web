@@ -1,20 +1,20 @@
 # TP-arquitectura-web
 
-## Nombre del negocio: CineStream
+## Nombre del negocio: MovieList
 
 ## Descripcion del negocio:
-CineStream es una plataforma de streaming que ofrece una amplia variedad de películas y series para que los usuarios disfruten en cualquier momento y desde cualquier lugar.
+MovieList es una plataforma para ver información sobre películas y armar listas con el fin de mantener un registro de todas las que ya viste y las que planeas ver. Te permite darle una calificación a las películas y escribir reseñas para postear en la plataforma. Además podés compartir tus listas y armar discusiones con otros usuarios.
 
 ## Entidades principales:
 1. Usuarios
-2. Peliculas y series
-3. Listas de reproduccion
+2. Películas
+3. Listas 
 
 ## Servicios:
 - **Crud de usuarios**: Registrar, eliminar y modificar usuarios
-- **Crud de peliculas y series**: Crear, eliminar y modificar peliculas y series
-- **Exploracion del contenido**: Permite a los usuarios explorar películas y series disponibles.
-- **Creacion de listas de reproduccion**: Permite a los usuarios crear listas de reproducción personalizadas.
+- **Crud de peliculas**: Crear, eliminar y modificar películas
+- **Exploracion del contenido**: Permite a los usuarios explorar películas disponibles.
+- **Creacion de listas**: Permite a los usuarios crear listas de películas que planean ver o que ya vieron.
 - **Recomendaciones personalizadas**: Sugiere contenido basado en el historial de visualización y las preferencias del usuario.
-- **Detalle de contenido**: Proporciona información detallada sobre una película o serie específica.
-- **Reproduccion del contenido**: Permite a los usuarios reproducir películas y episodios de series en línea.
+- **Detalle de contenido**: Proporciona información detallada sobre una película específica (genero , elenco ,plataforma en donde se encuentra, etc).
+
