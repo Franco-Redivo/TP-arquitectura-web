@@ -34,6 +34,6 @@ MovieList es una plataforma para ver información sobre películas y armar lista
 - /usuarios/{usuario_id}/listas
 ### Recomendaciones:
 - /usuarios/{usuario_id}/recomendaciones
-## Detalle de contenido:
+### Detalle de contenido:
 - /peliculas/{id}/detalle
 
